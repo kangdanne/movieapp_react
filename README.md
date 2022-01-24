@@ -9,14 +9,18 @@
 <img height="30" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
 <br>
 <br>
+
 ## ✅ Goal
+
 - [] State
 - [] Props
 - [] Create React App
 - [] Hook - useEffect
 - [] Make movie app
+
 <br>
 <br>
+
 ## BLOG👇
 
 [Hello, Dan:D world - React](https://kangdanne.tistory.com/category/D.evelop/React)
