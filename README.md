@@ -6,17 +6,17 @@
 
 ## 🔥 Stack
 
-<img height="30" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/>
+<img height="30" src="https://img.shields.io/badge/React-black?style=for-the-badge&logo=React&logoColor=#61DAFB"/><img height="30" src="https://img.shields.io/badge/Javascript-black?style=for-the-badge&logo=Javascript&logoColor=F7DF1E"/>
 <br>
 <br>
 
 ## ✅ Goal
 
-- [] State
-- [] Props
-- [] Create React App
-- [] Hook - useEffect
-- [] Make movie app
+- [ ] State
+- [ ] Props
+- [ ] Create React App
+- [ ] Hook - useEffect
+- [ ] Make movie app
 
 <br>
 <br>
